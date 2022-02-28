@@ -9,3 +9,4 @@ Hard questions list
 - Matrix median
 - Subarray with given XOR
 - O Matching (AtCoder DP contest)
+- Knuth Morris Pratt substring search
