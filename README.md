@@ -1,5 +1,4 @@
 # 30-Days-of-Code
-Hard questions list
 - Job sequencing problem
 - Left view of Binary tree
 - Path to given node
